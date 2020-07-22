@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**ShubhayanS/ShubhayanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'>Hey ðŸ‘‹, This is Shubhayan Saha</h1>
+<p align = 'center'> 
+ <a href = https://www.linkedin.com/in/Shubhayan Saha target='blank'><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='20' weight='20'></a>
+<a href =shubhayans.ml target='blank'><img src=https://github.com/twbs/icons/blob/main/icons/globe2.svg height='20' weight='20'></a></p>
+<h2 align='center'>About MeðŸ¤“</h2>
+<p align='center'>They say AI and blockchain is the future of our generation but I believe it's much more than that. Well, I plan on integrating ML, AI and blockchain in the future. Moreover just to mention actively working towards my goals and ambitions of life; also looking for internships and opportunities.</p><h2 align='center'>Connect with me  ðŸ“« </h2>
+<p align = 'center'> 
+ <a href = https://github.com/ShubhayanS target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/Shubhayan Saha target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/Shubhayan9 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
