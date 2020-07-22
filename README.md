@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Shubhayan Saha](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a fourth year student from SRM Institute of Science and Technology in Computer Science. :satellite:
+* I am [Shubhayan Saha](https://in.linkedin.com/in/shubhayan-saha-986448150) :blush:	 . Currently I am a fourth year student from SRM Institute of Science and Technology in Computer Science. :satellite:
 
 * I am a AI and Full Stack Developer Intern at @GauisNetworks :toolbox: , Organiser Team Envision, Web Developer Aakash Research Labs and Research Assistant at SRM IST :.
 
@@ -13,7 +13,7 @@
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/ShubhayanS/ShubhayanS/blob/master/Projects.md)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://in.linkedin.com/in/shubhayan-saha-986448150) :sparkler:
 
 
 ## Tech Stack :computer:
