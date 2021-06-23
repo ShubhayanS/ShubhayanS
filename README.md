@@ -53,13 +53,13 @@
 - [Coursera Machine Learning](https://media-exp1.licdn.com/dms/image/C4D2DAQHoFhvsfOPa5g/profile-treasury-image-shrink_1280_1280/0?e=1594677600&v=beta&t=EZa7le_vjNz5nGFIuOKmJk-WuGnPjOQpWz615lcUniM)
 - [IBM Qiskit Summer School](https://media-exp1.licdn.com/dms/image/C4D2DAQGL_J8Rvg88cg/profile-treasury-image-shrink_480_480/0?e=1594677600&v=beta&t=ns1Pf3Eh9CDkLzcBDMz-LDWg9ArVMBOffdwSKhXzKzs) 
 
-
+<!-- 
 ## My Activities :mailbox_with_mail:
 
 | BLOGS :open_book: | WEBINARS :tv: |
 | :--- | :--- |
 | [How Jenkins can help build your code](https://medium.com/@diptochakrabarty/how-jenkins-can-actually-help-you-build-your-code-with-every-commit-5b9b1278f12f) | [Micorservices with Docker](https://www.youtube.com/watch?v=Xs93YLgYJis&t=1989s) |
 | [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
-| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) |
+| [Automation with Ansible](https://medium.com/@diptochakrabarty/automation-with-ansible-2ae27fc94947) | [Ansible Automation](https://www.youtube.com/watch?v=r2sZ_aWU8h8) | -->
 
 :star: From [Shubhayan Saha](https://github.com/ShubhayanS/)
