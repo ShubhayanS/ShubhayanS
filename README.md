@@ -1,4 +1,4 @@
-<h1 align="center"> Hello There 👋 </h1>
+<h1 align="center"> Hello 👋 </h1>
 
 
 * I am [Shubhayan Saha](https://in.linkedin.com/in/shubhayan-saha-986448150) :blush:	 . Currently I am a Master's Student from George Washington University in Data Science. :satellite:
