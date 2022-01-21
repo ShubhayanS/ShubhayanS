@@ -1,9 +1,9 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Shubhayan Saha](https://in.linkedin.com/in/shubhayan-saha-986448150) :blush:	 . Currently I am a Master's Student from George Washington University in Data Analytics. :satellite:
+* I am [Shubhayan Saha](https://in.linkedin.com/in/shubhayan-saha-986448150) :blush:	 . Currently I am a Master's Student from George Washington University in Data Science. :satellite:
 
-* I had been an AI and Full Stack Developer at @GauisNetworks :toolbox: , Organiser Team Envision, Web Developer Aakash Research Labs and Research Assistant at SRM IST :.
+* I had been an Data Scientist and Full Stack Developer at @GauisNetworks :toolbox: , Organiser Team Envision, Web Developer Aakash Research Labs and Research Assistant at SRM IST :.
 
 * I have done multiple projects ranging from the field of AI , Backend to Frontend and Automation :file_cabinet: .
 
