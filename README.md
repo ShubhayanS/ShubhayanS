@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋 </h1>
 
 
-* I am [Shubhayan Saha](https://in.linkedin.com/in/shubhayan-saha-986448150) :blush:	 . Currently I am a Master's Student from George Washington University in Data Science. :satellite:
+* I am [Shubhayan Saha](https://www.linkedin.com/in/shubhayans/) :blush:	 . Currently I am a Master's Student from George Washington University in Data Science. :satellite:
 
 * I had been an Data Scientist and Full Stack Developer at @GauisNetworks :toolbox: , Organiser Team Envision, Web Developer Aakash Research Labs and Research Assistant at SRM IST :.
 
@@ -9,11 +9,11 @@
 
 * I am currently brushing up my skills and plan to master AI and Cloud Computing .
 
-* I am willing to work for internships and free-lance projects and love to  contribute to open source projects :bulb:
+* I am open to Data Scientist / Engineering opportunities, internships and free-lance projects and love to  contribute to open source projects :bulb:
 
 * :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/ShubhayanS/ShubhayanS/blob/master/Projects.md)
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://in.linkedin.com/in/shubhayan-saha-986448150) :sparkler:
+* Connect with me on Linkedin :fireworks: [Linkedin Profile](https://www.linkedin.com/in/shubhayans/) :sparkler:
 
 
 ## Tech Stack :computer:
